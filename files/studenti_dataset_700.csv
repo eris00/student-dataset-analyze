@@ -1,0 +1,701 @@
+ID,Ime,Godine,Grad,Prosek,Datum_upisa,Datum_diplomiranja,ESPB,Email,Telefon
+1,Milica,,Nis,8.0,10-09-2017,NaN,60,student@uni.rs,0612345678
+2,Petar,27,NIŠ,7.5,2020/11/01,2025-07-01,300,ana@gmail.com,12345
+3,,30,Beograd,7.5,2020/11/01,NaN,0,,
+4,Stefan,25,Niš,10.0,2018-09-15,2023-06-15,60,,060-abc-789
+5,Ivana,27,Novi Sad,10.0,2017-09-10,2023-06-15,240,jelena@hotmail.com,0612345678
+6,Milica,28, ,10.0,2019-10-01,NaN,-10,,
+7,Jovan,23,novi sad,,10-09-2017,2025-07-01,120,petar@,064/123-4567
+8,Jelena,20,Niš,8.0,2017-09-10,NaN,300,marko@yahoo.com,0612345678
+9,Milica,250,,10.0,201x-09-15,2025-07-01,60,marko@yahoo.com,
+10,,20,,6.0,10-09-2017,2025-07-01,-10,ivana#gmail.com,064/123-4567
+11,,29,Novi Sad,,10-09-2017,2020-05-35,-10,ivana#gmail.com,12345
+12,Stefan,23,novi sad,9.0,2020/11/01,,240,marko@yahoo.com,060-abc-789
+13,Ivana,,NIŠ,6.0,2019-10-01,2020-13-01,999,student@uni.rs,064/123-4567
+14,Petar,250,Novi Sad,15.0,2019-10-01,2025-07-01,240,ivana#gmail.com,+381601234567
+15,Stefan,26,Novi Sad,15.0,,2021-05-20,999,jelena@hotmail.com,064/123-4567
+16,Stefan,21,Beograd,6.0,,2025-07-01,999,,064/123-4567
+17,Jelena,22,,10.0,,2025-07-01,300,marko@yahoo.com,060-abc-789
+18,Nikola,20,Beograd,9.0,,2025-07-01,240,ivana#gmail.com,+381601234567
+19,Ivana,24, ,9.0,201x-09-15,2020-05-35,120,marko@yahoo.com,
+20,Marko,20,novi sad,,201x-09-15,,180,petar@,
+21,Stefan,27,NIŠ,9.0,10-09-2017,2020-05-35,180,ana@gmail.com,064/123-4567
+22, ,20,NIŠ,15.0,2018-09-15,2023-06-15,240,,+381601234567
+23,Nikola,30,Niš,8.0,2020/11/01,2020-05-35,240,marko@yahoo.com,+381601234567
+24,Marko,20,Novi Sad,10.0,2020/11/01,2021-05-20,300,ana@gmail.com,060-abc-789
+25, ,21, ,9.0,,2021-05-20,240,ivana#gmail.com,12345
+26,Ivana,21,,,10-09-2017,2020-05-35,999,ana@gmail.com,
+27,Ana,,NIŠ,15.0,2017-09-10,,-10,,060-abc-789
+28, ,25, ,8.0,2018-09-15,NaN,-10,marko@yahoo.com,0612345678
+29,Jovan,26,Kragujevac,7.5,10-09-2017,2020-13-01,999,petar@,
+30,Nikola,24,Kragujevac,7.5,2018-09-15,,0,student@uni.rs,060-abc-789
+31, ,20,Beograd,8.0,2018-09-15,2020-05-35,999,ivana#gmail.com,
+32,Marija,20,,15.0,2018-09-15,2025-07-01,120,marko@yahoo.com,12345
+33,Ana,22,Niš,,10-09-2017,2024-07-01,,,0612345678
+34,,250,NIŠ,8.0,,2020-13-01,60,ivana#gmail.com,12345
+35,,21,Novi Sad,10.0,2020/11/01,2020-13-01,999,jelena@hotmail.com,0612345678
+36,Jovan,24,Novi Sad,10.0,2020/11/01,2021-05-20,240,ana@gmail.com,064/123-4567
+37, ,,NIŠ,7.5,,2020-13-01,240,student@uni.rs,060-abc-789
+38, ,29,novi sad,9.0,2018-09-15,2020-05-35,300,,0612345678
+39,Jelena,25,Niš,,2017-09-10,2025-07-01,999,jelena@hotmail.com,12345
+40, ,26, ,7.5,2019-10-01,2025-07-01,300,marko@yahoo.com,
+41,Milica,23,novi sad,9.0,10-09-2017,2023-06-15,999,petar@,0612345678
+42,Petar,26,novi sad,9.0,2019-10-01,2025-07-01,60,ivana#gmail.com,060-abc-789
+43,Marija,30,Beograd,10.0,,,,ana@gmail.com,0612345678
+44,Jelena,27,Kragujevac,15.0,2017-09-10,2025-07-01,-10,ivana#gmail.com,+381601234567
+45,Ivana,30,novi sad,6.0,10-09-2017,2021-05-20,180,student@uni.rs,
+46,Jelena,20,novi sad,15.0,,2025-07-01,999,marko@yahoo.com,060-abc-789
+47,Milica,25,Nis,6.0,2018-09-15,2023-06-15,,ivana#gmail.com,060-abc-789
+48,Ivana,27,Beograd,8.0,2020/11/01,2024-07-01,-10,ana@gmail.com,064/123-4567
+49,Marija,24,,10.0,2019-10-01,2020-05-35,0,marko@yahoo.com,12345
+50,Milica,23,Nis,9.0,201x-09-15,2021-05-20,60,ivana#gmail.com,064/123-4567
+51,Marko,21,Nis,,201x-09-15,,300,petar@,060-abc-789
+52,Petar,25,NIŠ,6.0,2017-09-10,2024-07-01,300,,
+53,Marija,25,Kragujevac,15.0,2018-09-15,2021-05-20,240,marko@yahoo.com,0612345678
+54, ,30,novi sad,9.0,2019-10-01,NaN,-10,,0612345678
+55,Marko,20,Kragujevac,6.0,2018-09-15,2020-13-01,0,marko@yahoo.com,
+56,Jovan,28,Niš,6.0,2019-10-01,NaN,,petar@,060-abc-789
+57,Marija,,NIŠ,6.0,2017-09-10,2025-07-01,60,,0612345678
+58,Jovan,30,,,2017-09-10,2024-07-01,-10,jelena@hotmail.com,0612345678
+59,Ivana,25,Kragujevac,10.0,201x-09-15,2025-07-01,0,ana@gmail.com,0612345678
+60,Marko,-5,Novi Sad,,2018-09-15,2020-13-01,180,jelena@hotmail.com,12345
+61,Petar,22,Niš,7.5,10-09-2017,2021-05-20,999,ivana#gmail.com,12345
+62, ,23,Beograd,9.0,201x-09-15,2020-13-01,300,petar@,+381601234567
+63, ,,,10.0,2018-09-15,2023-06-15,,jelena@hotmail.com,064/123-4567
+64,Milica,30,Niš,10.0,201x-09-15,2020-13-01,300,marko@yahoo.com,
+65, ,23,NIŠ,10.0,10-09-2017,2023-06-15,,ivana#gmail.com,
+66,Stefan,22,Nis,15.0,2020/11/01,2020-13-01,240,ivana#gmail.com,
+67,Jelena,29,Nis,10.0,2020/11/01,2020-05-35,,jelena@hotmail.com,+381601234567
+68,Ana,22,NIŠ,,2020/11/01,2023-06-15,300,jelena@hotmail.com,12345
+69,Petar,22, ,10.0,2020/11/01,2024-07-01,,petar@,060-abc-789
+70,Marko,23,Nis,8.0,,2025-07-01,180,ana@gmail.com,060-abc-789
+71,Stefan,26,Beograd,9.0,2019-10-01,,240,jelena@hotmail.com,+381601234567
+72,Petar,23,Beograd,10.0,,2025-07-01,,student@uni.rs,060-abc-789
+73,Marko,28,Novi Sad,9.0,,NaN,-10,jelena@hotmail.com,
+74,Nikola,20,novi sad,8.0,,2025-07-01,120,,064/123-4567
+75,Nikola,27, ,8.0,2020/11/01,2021-05-20,0,marko@yahoo.com,0612345678
+76,Jovan,26,,9.0,10-09-2017,2020-05-35,120,student@uni.rs,12345
+77,Petar,21,Nis,6.0,2017-09-10,2020-13-01,120,student@uni.rs,12345
+78,Nikola,27,Beograd,7.5,2017-09-10,NaN,60,,+381601234567
+79,Marko,20,NIŠ,15.0,2019-10-01,2021-05-20,180,,12345
+80,Jovan,30,Nis,6.0,2020/11/01,2021-05-20,-10,ivana#gmail.com,
+81, ,,novi sad,6.0,2020/11/01,2023-06-15,999,ana@gmail.com,060-abc-789
+82,Marko,28,NIŠ,,2020/11/01,2025-07-01,,marko@yahoo.com,
+83,Jovan,28,Niš,15.0,201x-09-15,2024-07-01,0,petar@,+381601234567
+84,Petar,21,Niš,15.0,2018-09-15,,240,student@uni.rs,
+85,Stefan,26,Nis,6.0,201x-09-15,2024-07-01,-10,petar@,060-abc-789
+86,Milica,250,novi sad,10.0,2018-09-15,NaN,300,jelena@hotmail.com,064/123-4567
+87, ,29, ,,2020/11/01,2020-05-35,999,jelena@hotmail.com,+381601234567
+88,Marija,22,Nis,,2020/11/01,2024-07-01,60,petar@,064/123-4567
+89,Stefan,26,Beograd,8.0,201x-09-15,2020-13-01,60,jelena@hotmail.com,0612345678
+90,Ivana,,Kragujevac,15.0,201x-09-15,2024-07-01,-10,ana@gmail.com,064/123-4567
+91,Marko,29,Nis,6.0,2018-09-15,NaN,120,,0612345678
+92,Ivana,28,Nis,8.0,2017-09-10,,300,jelena@hotmail.com,0612345678
+93,Stefan,23,NIŠ,9.0,2018-09-15,2024-07-01,60,ivana#gmail.com,064/123-4567
+94,Jovan,,Kragujevac,7.5,201x-09-15,2020-13-01,0,jelena@hotmail.com,+381601234567
+95,Marija,20,Beograd,,10-09-2017,2023-06-15,60,marko@yahoo.com,060-abc-789
+96, ,21,Nis,9.0,201x-09-15,2020-05-35,240,ana@gmail.com,
+97, ,20,NIŠ,9.0,10-09-2017,NaN,,marko@yahoo.com,
+98, ,250,novi sad,10.0,2019-10-01,2023-06-15,60,marko@yahoo.com,060-abc-789
+99,Marija,,Nis,7.5,201x-09-15,2023-06-15,240,ivana#gmail.com,0612345678
+100,Ana,24,Kragujevac,9.0,2019-10-01,2023-06-15,-10,ana@gmail.com,0612345678
+101,Marija,24,Novi Sad,9.0,2017-09-10,2021-05-20,-10,ana@gmail.com,+381601234567
+102,Milica,30,Kragujevac,7.5,2018-09-15,2020-05-35,999,ana@gmail.com,12345
+103,Marija,26,Niš,7.5,10-09-2017,,60,ana@gmail.com,064/123-4567
+104,Stefan,28,Beograd,9.0,2018-09-15,2025-07-01,0,ana@gmail.com,0612345678
+105,Ana,28,,7.5,2019-10-01,2020-05-35,60,ivana#gmail.com,
+106, ,22,Nis,9.0,10-09-2017,2021-05-20,0,jelena@hotmail.com,+381601234567
+107,Stefan,22,Kragujevac,9.0,2018-09-15,2025-07-01,180,marko@yahoo.com,064/123-4567
+108,Stefan,22,,10.0,201x-09-15,2020-05-35,999,ana@gmail.com,+381601234567
+109,,23,NIŠ,6.0,2020/11/01,2023-06-15,180,student@uni.rs,064/123-4567
+110,Jelena,27,Novi Sad,9.0,2019-10-01,NaN,60,jelena@hotmail.com,064/123-4567
+111,Ana,25,Beograd,8.0,2018-09-15,2025-07-01,999,jelena@hotmail.com,060-abc-789
+112,Stefan,27,Kragujevac,,2019-10-01,2020-13-01,180,marko@yahoo.com,0612345678
+113,Jelena,20,,15.0,,2020-13-01,120,ivana#gmail.com,+381601234567
+114,Jelena,27,Novi Sad,6.0,2019-10-01,2024-07-01,60,petar@,+381601234567
+115,Ana,23,Niš,6.0,10-09-2017,2025-07-01,180,petar@,060-abc-789
+116,,30,Beograd,6.0,,NaN,120,jelena@hotmail.com,
+117,Ivana,20,Beograd,10.0,10-09-2017,,120,,
+118,Jovan,27,Niš,9.0,2020/11/01,2021-05-20,-10,,0612345678
+119,Milica,23,Nis,10.0,,2023-06-15,60,marko@yahoo.com,0612345678
+120,Jovan,25,Niš,9.0,201x-09-15,2024-07-01,120,petar@,12345
+121,Marija,27,Beograd,10.0,2019-10-01,2020-13-01,-10,jelena@hotmail.com,060-abc-789
+122, ,23,Beograd,10.0,2018-09-15,2021-05-20,180,ivana#gmail.com,
+123,Milica,250,,,2017-09-10,2021-05-20,240,petar@,064/123-4567
+124,Marija,22,Novi Sad,8.0,2019-10-01,2023-06-15,60,jelena@hotmail.com,+381601234567
+125,Stefan,250,Niš,10.0,2019-10-01,,999,jelena@hotmail.com,0612345678
+126, ,28,Novi Sad,,2020/11/01,,0,ana@gmail.com,+381601234567
+127,Marko,22,Niš,7.5,201x-09-15,2025-07-01,0,ivana#gmail.com,+381601234567
+128,Ana,28,NIŠ,8.0,2017-09-10,2020-13-01,180,ana@gmail.com,12345
+129,Milica,-5,Beograd,10.0,,,180,marko@yahoo.com,
+130,Milica,21,,15.0,,NaN,120,ana@gmail.com,0612345678
+131,Stefan,250,Novi Sad,6.0,,,60,student@uni.rs,+381601234567
+132,Ivana,21,Niš,7.5,10-09-2017,2021-05-20,0,ana@gmail.com,0612345678
+133,Jelena,21, ,7.5,10-09-2017,2023-06-15,0,student@uni.rs,064/123-4567
+134, ,25,NIŠ,,2018-09-15,NaN,120,petar@,12345
+135,Stefan,22,Kragujevac,7.5,2017-09-10,2025-07-01,0,,064/123-4567
+136,Nikola,-5,Nis,8.0,,2020-13-01,999,jelena@hotmail.com,0612345678
+137,,28,Novi Sad,10.0,10-09-2017,2025-07-01,60,student@uni.rs,0612345678
+138,Jelena,23,,10.0,2018-09-15,2021-05-20,,ivana#gmail.com,
+139,Ana,20,Kragujevac,15.0,201x-09-15,NaN,0,ana@gmail.com,+381601234567
+140,Jelena,23, ,6.0,2018-09-15,NaN,180,student@uni.rs,+381601234567
+141,Ivana,20,Nis,,10-09-2017,NaN,999,ivana#gmail.com,064/123-4567
+142,Jelena,250, ,6.0,2020/11/01,2021-05-20,0,,12345
+143,Ana,24,Kragujevac,7.5,2020/11/01,2021-05-20,999,,060-abc-789
+144,Ivana,23,Nis,15.0,,2025-07-01,-10,ana@gmail.com,+381601234567
+145,Jovan,27, ,6.0,2020/11/01,2024-07-01,,marko@yahoo.com,
+146,Milica,27,,8.0,,2025-07-01,300,ana@gmail.com,064/123-4567
+147,Milica,26,Niš,10.0,,2020-13-01,180,petar@,064/123-4567
+148,,22,Beograd,7.5,10-09-2017,2023-06-15,180,student@uni.rs,060-abc-789
+149,Marija,20,Niš,15.0,2020/11/01,NaN,60,jelena@hotmail.com,
+150,Jovan,20,Kragujevac,6.0,,2024-07-01,999,marko@yahoo.com,12345
+151,Jovan,,Novi Sad,,2017-09-10,2023-06-15,120,ana@gmail.com,
+152, ,30,Beograd,8.0,201x-09-15,2024-07-01,180,ivana#gmail.com,12345
+153,Jelena,22,NIŠ,8.0,2018-09-15,,999,marko@yahoo.com,
+154,Milica,25,,6.0,2018-09-15,,999,student@uni.rs,
+155,Ana,26,NIŠ,10.0,10-09-2017,2020-05-35,240,marko@yahoo.com,0612345678
+156,Petar,25,Nis,6.0,2020/11/01,,240,student@uni.rs,064/123-4567
+157,Petar,250,Beograd,7.5,2020/11/01,2025-07-01,300,ana@gmail.com,
+158,Ivana,250,NIŠ,6.0,,,-10,student@uni.rs,060-abc-789
+159,Milica,25,NIŠ,8.0,2019-10-01,2021-05-20,300,marko@yahoo.com,
+160,Milica,25, ,15.0,,NaN,0,ivana#gmail.com,+381601234567
+161,,-5,Niš,6.0,201x-09-15,2025-07-01,120,,064/123-4567
+162,Petar,22, ,10.0,2017-09-10,2023-06-15,0,marko@yahoo.com,+381601234567
+163,Milica,25,Beograd,15.0,2018-09-15,2020-05-35,0,student@uni.rs,064/123-4567
+164,,27,Beograd,,,2020-05-35,60,,+381601234567
+165,Jelena,30,Kragujevac,9.0,2019-10-01,2020-05-35,0,student@uni.rs,
+166,Nikola,30, ,6.0,2019-10-01,2023-06-15,300,ivana#gmail.com,
+167, ,21,novi sad,10.0,,2023-06-15,180,student@uni.rs,0612345678
+168,Marko,24,Niš,15.0,10-09-2017,2023-06-15,180,ana@gmail.com,060-abc-789
+169,Jovan,250,Beograd,10.0,2018-09-15,2023-06-15,240,jelena@hotmail.com,+381601234567
+170,Marija,20,Kragujevac,,10-09-2017,2020-05-35,120,marko@yahoo.com,12345
+171,Ivana,, ,8.0,2017-09-10,2020-05-35,120,jelena@hotmail.com,0612345678
+172,Nikola,20,Niš,10.0,2019-10-01,2024-07-01,60,student@uni.rs,+381601234567
+173, ,24, ,15.0,2019-10-01,2025-07-01,300,ivana#gmail.com,+381601234567
+174, ,,NIŠ,10.0,201x-09-15,NaN,240,marko@yahoo.com,0612345678
+175, ,-5,Kragujevac,10.0,2017-09-10,,120,student@uni.rs,
+176, ,22,Niš,10.0,2019-10-01,,180,,+381601234567
+177,Petar,23,Nis,7.5,2017-09-10,2021-05-20,0,petar@,
+178,,22,Nis,7.5,2018-09-15,2020-05-35,0,student@uni.rs,0612345678
+179,Jovan,20,Niš,8.0,2020/11/01,2021-05-20,240,jelena@hotmail.com,
+180,Milica,20, ,6.0,2019-10-01,2025-07-01,300,marko@yahoo.com,064/123-4567
+181, ,,Kragujevac,10.0,201x-09-15,2025-07-01,300,jelena@hotmail.com,12345
+182,Marija,,Nis,,2018-09-15,2021-05-20,-10,marko@yahoo.com,+381601234567
+183,Milica,250,Kragujevac,6.0,,2020-05-35,,student@uni.rs,060-abc-789
+184,Ana,-5,Nis,,2017-09-10,2021-05-20,120,ana@gmail.com,12345
+185,Ana,250,NIŠ,6.0,,,300,,
+186,Marija,24, ,8.0,10-09-2017,2024-07-01,180,student@uni.rs,+381601234567
+187,,25,NIŠ,10.0,2018-09-15,,240,jelena@hotmail.com,
+188,Marija,22,Nis,10.0,,2020-13-01,-10,petar@,064/123-4567
+189,Petar,,NIŠ,9.0,2019-10-01,2020-05-35,999,petar@,0612345678
+190,Marija,28,Nis,,2017-09-10,2020-05-35,60,ivana#gmail.com,+381601234567
+191,Jelena,24,Niš,6.0,2020/11/01,NaN,999,marko@yahoo.com,064/123-4567
+192,Milica,27,NIŠ,6.0,2018-09-15,2023-06-15,0,jelena@hotmail.com,064/123-4567
+193,Nikola,-5,Novi Sad,7.5,2019-10-01,2020-13-01,60,ivana#gmail.com,+381601234567
+194,Stefan,20, ,9.0,201x-09-15,2025-07-01,120,jelena@hotmail.com,
+195,,250,Beograd,15.0,10-09-2017,2020-05-35,180,marko@yahoo.com,060-abc-789
+196,Marija,24,novi sad,15.0,2017-09-10,2021-05-20,60,student@uni.rs,064/123-4567
+197,Ivana,22,NIŠ,7.5,2018-09-15,2020-13-01,,student@uni.rs,12345
+198,Ana,,,7.5,2018-09-15,NaN,999,petar@,064/123-4567
+199,Jelena,20, ,7.5,2020/11/01,2025-07-01,120,student@uni.rs,060-abc-789
+200,Jovan,23,Novi Sad,,2020/11/01,2023-06-15,,student@uni.rs,
+201, ,28,,15.0,2018-09-15,2020-13-01,120,student@uni.rs,
+202,Milica,,novi sad,9.0,2017-09-10,2020-13-01,,student@uni.rs,060-abc-789
+203,Marko,24,,,2020/11/01,2025-07-01,,student@uni.rs,12345
+204,,21,Beograd,,,2023-06-15,999,ana@gmail.com,064/123-4567
+205,Ana,24,Beograd,10.0,,,60,student@uni.rs,060-abc-789
+206,Marija,,NIŠ,10.0,,2020-13-01,120,student@uni.rs,0612345678
+207,Ana,23,,9.0,2017-09-10,2021-05-20,-10,ivana#gmail.com,064/123-4567
+208,Stefan,30,Niš,6.0,,2020-13-01,300,,
+209,Marko,26,Nis,,201x-09-15,,,,064/123-4567
+210, ,25,Beograd,6.0,2020/11/01,,300,petar@,12345
+211,Stefan,250,NIŠ,6.0,,,120,petar@,0612345678
+212,Jelena,21,Nis,9.0,2019-10-01,2021-05-20,240,student@uni.rs,12345
+213,Nikola,,,6.0,2017-09-10,2024-07-01,,ivana#gmail.com,0612345678
+214,Jelena,30,,,201x-09-15,2025-07-01,60,student@uni.rs,060-abc-789
+215,Milica,30, ,8.0,2019-10-01,2023-06-15,60,petar@,
+216,Jovan,-5,NIŠ,10.0,2019-10-01,2020-13-01,0,ana@gmail.com,0612345678
+217,Marija,24,Beograd,8.0,2019-10-01,2021-05-20,180,ana@gmail.com,0612345678
+218,Marko,26,Niš,6.0,2019-10-01,NaN,120,marko@yahoo.com,0612345678
+219, ,30,,8.0,2020/11/01,2023-06-15,,,064/123-4567
+220, ,26,Niš,,,2024-07-01,180,ivana#gmail.com,060-abc-789
+221,Ivana,24,,,10-09-2017,2021-05-20,120,jelena@hotmail.com,064/123-4567
+222,Nikola,,Beograd,6.0,2020/11/01,2020-05-35,999,,
+223,Petar,28,Nis,9.0,2020/11/01,2020-05-35,-10,jelena@hotmail.com,0612345678
+224,Petar,23,Kragujevac,8.0,201x-09-15,2025-07-01,-10,marko@yahoo.com,060-abc-789
+225,Petar,30,Nis,9.0,201x-09-15,2025-07-01,0,marko@yahoo.com,060-abc-789
+226,Marko,22,,9.0,,2024-07-01,0,student@uni.rs,+381601234567
+227,Petar,23,Kragujevac,7.5,10-09-2017,2024-07-01,-10,petar@,
+228,,24,Kragujevac,6.0,201x-09-15,2025-07-01,240,marko@yahoo.com,060-abc-789
+229,Ana,-5,Niš,10.0,,2020-13-01,,marko@yahoo.com,0612345678
+230, ,25,NIŠ,,,2020-13-01,-10,jelena@hotmail.com,0612345678
+231,Nikola,22,Niš,,2018-09-15,2021-05-20,240,petar@,060-abc-789
+232,Ana,21,Niš,6.0,10-09-2017,NaN,180,marko@yahoo.com,064/123-4567
+233,Jovan,250,Nis,15.0,201x-09-15,2021-05-20,240,,
+234,Nikola,-5,Nis,15.0,10-09-2017,NaN,180,marko@yahoo.com,0612345678
+235,Ana,23,novi sad,15.0,2020/11/01,2024-07-01,120,petar@,060-abc-789
+236,Nikola,24,,10.0,2020/11/01,2023-06-15,300,student@uni.rs,0612345678
+237,Jovan,23,novi sad,,10-09-2017,2021-05-20,120,ivana#gmail.com,060-abc-789
+238,Stefan,250,Beograd,6.0,2018-09-15,2021-05-20,-10,petar@,
+239,,30,,,2018-09-15,NaN,180,jelena@hotmail.com,060-abc-789
+240,Marko,-5,,9.0,10-09-2017,,-10,ivana#gmail.com,+381601234567
+241,Marko,, ,8.0,201x-09-15,2024-07-01,,,060-abc-789
+242, ,22, ,8.0,2017-09-10,2024-07-01,60,ana@gmail.com,060-abc-789
+243,Petar,27,Novi Sad,,2018-09-15,2020-05-35,-10,petar@,
+244,,29,Novi Sad,7.5,2019-10-01,,,student@uni.rs,060-abc-789
+245,Jelena,23,Niš,10.0,2020/11/01,NaN,240,jelena@hotmail.com,
+246,Petar,250,Beograd,15.0,10-09-2017,2024-07-01,120,,+381601234567
+247, ,21,Kragujevac,10.0,2019-10-01,,240,ivana#gmail.com,
+248,Milica,21,Kragujevac,10.0,10-09-2017,2025-07-01,60,,0612345678
+249,,20, ,9.0,,,180,petar@,
+250,Ana,-5, ,10.0,2020/11/01,2020-13-01,,marko@yahoo.com,+381601234567
+251,Nikola,23, ,8.0,2020/11/01,2020-05-35,300,student@uni.rs,12345
+252,Jelena,29,NIŠ,9.0,2018-09-15,2025-07-01,-10,petar@,060-abc-789
+253,,28,Novi Sad,6.0,2018-09-15,2023-06-15,180,ana@gmail.com,
+254,Jovan,250,Nis,10.0,2019-10-01,2021-05-20,300,petar@,060-abc-789
+255,Milica,30,Kragujevac,10.0,,2020-05-35,999,ivana#gmail.com,064/123-4567
+256,Jovan,26,,6.0,10-09-2017,2023-06-15,-10,ivana#gmail.com,0612345678
+257,Marko,,Novi Sad,10.0,,2021-05-20,240,petar@,0612345678
+258,Marko,29,novi sad,6.0,2020/11/01,2020-13-01,120,ivana#gmail.com,064/123-4567
+259,Petar,26,Nis,9.0,2019-10-01,,,marko@yahoo.com,064/123-4567
+260,Ana,-5,Novi Sad,8.0,2017-09-10,2024-07-01,60,,
+261,Jelena,26,Beograd,6.0,2019-10-01,2025-07-01,60,petar@,064/123-4567
+262,Marija,27,,7.5,201x-09-15,NaN,240,student@uni.rs,12345
+263,Milica,20,Novi Sad,6.0,2019-10-01,2025-07-01,0,marko@yahoo.com,060-abc-789
+264,Milica,29,NIŠ,10.0,,2020-13-01,60,,060-abc-789
+265,,-5, ,15.0,201x-09-15,2023-06-15,,student@uni.rs,+381601234567
+266,Petar,29, ,15.0,201x-09-15,NaN,240,student@uni.rs,064/123-4567
+267,Marko,27,,9.0,201x-09-15,2024-07-01,180,student@uni.rs,064/123-4567
+268,Petar,23, ,,2017-09-10,2020-13-01,60,,12345
+269,Nikola,23,Novi Sad,9.0,2019-10-01,NaN,240,marko@yahoo.com,0612345678
+270,,23,novi sad,,,2020-13-01,,student@uni.rs,0612345678
+271,,25,Kragujevac,15.0,2019-10-01,,-10,student@uni.rs,060-abc-789
+272,Jelena,26,Kragujevac,15.0,2017-09-10,2020-13-01,-10,jelena@hotmail.com,060-abc-789
+273,Ana,25,Nis,6.0,2020/11/01,2024-07-01,60,petar@,
+274, ,20,Niš,8.0,2018-09-15,2020-05-35,120,,12345
+275,Stefan,,Beograd,7.5,,2021-05-20,-10,,+381601234567
+276, ,27,,9.0,,NaN,120,ivana#gmail.com,+381601234567
+277,Ivana,-5,Nis,10.0,2019-10-01,,180,,12345
+278,Ivana,29,Niš,,2018-09-15,2024-07-01,240,marko@yahoo.com,+381601234567
+279,,30,NIŠ,10.0,10-09-2017,2020-13-01,300,,0612345678
+280,Petar,-5,NIŠ,8.0,10-09-2017,,,jelena@hotmail.com,+381601234567
+281,Nikola,26,Beograd,,2017-09-10,2024-07-01,240,petar@,+381601234567
+282,Jelena,25, ,9.0,10-09-2017,2020-05-35,,petar@,12345
+283,Marija,25,Novi Sad,6.0,,,180,,12345
+284,Ivana,24,Nis,10.0,10-09-2017,,999,student@uni.rs,+381601234567
+285,Jelena,25,Nis,8.0,2020/11/01,2021-05-20,60,ana@gmail.com,064/123-4567
+286,,,,9.0,2020/11/01,2025-07-01,,ana@gmail.com,12345
+287,Ana,28,,15.0,2020/11/01,NaN,,student@uni.rs,
+288,Jovan,29,NIŠ,15.0,10-09-2017,2021-05-20,120,student@uni.rs,
+289, ,28,NIŠ,9.0,2017-09-10,2023-06-15,240,student@uni.rs,0612345678
+290,Nikola,29,novi sad,9.0,201x-09-15,NaN,999,marko@yahoo.com,+381601234567
+291,Marko,27,novi sad,9.0,201x-09-15,2021-05-20,0,ana@gmail.com,064/123-4567
+292,Jelena,29, ,,2018-09-15,2020-13-01,60,student@uni.rs,0612345678
+293,Ana,28,novi sad,9.0,201x-09-15,NaN,300,marko@yahoo.com,+381601234567
+294,Marija,-5,Novi Sad,10.0,201x-09-15,NaN,0,ivana#gmail.com,12345
+295,Stefan,29,Novi Sad,8.0,2020/11/01,2024-07-01,240,marko@yahoo.com,
+296, ,27,Nis,,2020/11/01,2020-13-01,60,ana@gmail.com,060-abc-789
+297,Marko,27,Kragujevac,9.0,10-09-2017,2023-06-15,,,064/123-4567
+298, ,20,Novi Sad,7.5,2018-09-15,2025-07-01,300,ivana#gmail.com,060-abc-789
+299,,29,Niš,7.5,2019-10-01,,120,ana@gmail.com,
+300,Stefan,30,NIŠ,8.0,,2020-05-35,999,marko@yahoo.com,060-abc-789
+301, ,24,,15.0,2018-09-15,2021-05-20,120,jelena@hotmail.com,12345
+302,Marija,23,novi sad,6.0,2018-09-15,2024-07-01,180,petar@,+381601234567
+303,Ana,21,Nis,6.0,2017-09-10,2021-05-20,60,ana@gmail.com,12345
+304,Ivana,27,Beograd,15.0,10-09-2017,2023-06-15,120,student@uni.rs,060-abc-789
+305,Stefan,22,,,2017-09-10,,0,marko@yahoo.com,12345
+306,,23,Niš,,2018-09-15,2023-06-15,120,student@uni.rs,
+307,Marko,,novi sad,,2018-09-15,NaN,-10,student@uni.rs,064/123-4567
+308,Petar,26,Niš,6.0,2018-09-15,2020-05-35,180,student@uni.rs,12345
+309,Milica,29,NIŠ,7.5,201x-09-15,2023-06-15,240,student@uni.rs,
+310,Jelena,28,NIŠ,6.0,,2021-05-20,999,student@uni.rs,064/123-4567
+311, ,21, ,10.0,,2020-13-01,180,ivana#gmail.com,+381601234567
+312,Ivana,22,Nis,9.0,2017-09-10,2020-13-01,-10,ana@gmail.com,060-abc-789
+313,Stefan,23,,,2018-09-15,NaN,60,ana@gmail.com,+381601234567
+314, ,29,,7.5,,2025-07-01,0,petar@,0612345678
+315,Jovan,20,Beograd,8.0,2020/11/01,2021-05-20,999,marko@yahoo.com,
+316,Jelena,26,Nis,8.0,,2021-05-20,999,jelena@hotmail.com,064/123-4567
+317,Petar,21,Niš,9.0,10-09-2017,2023-06-15,180,ivana#gmail.com,12345
+318,Marija,24,Beograd,7.5,10-09-2017,2020-05-35,60,marko@yahoo.com,+381601234567
+319,Milica,20,Kragujevac,6.0,,2021-05-20,,ivana#gmail.com,064/123-4567
+320,Ana,22,,6.0,2020/11/01,2024-07-01,-10,ana@gmail.com,
+321, ,,Niš,10.0,10-09-2017,2025-07-01,,student@uni.rs,0612345678
+322,Petar,21,Novi Sad,10.0,201x-09-15,2023-06-15,0,petar@,+381601234567
+323,Petar,20, ,6.0,,2024-07-01,60,petar@,060-abc-789
+324,Marija,26,Nis,8.0,201x-09-15,NaN,60,,064/123-4567
+325,Nikola,24,NIŠ,,,2020-13-01,-10,jelena@hotmail.com,060-abc-789
+326,Marija,20,Novi Sad,8.0,2019-10-01,NaN,300,petar@,064/123-4567
+327, ,25, ,10.0,2019-10-01,2020-13-01,,student@uni.rs,064/123-4567
+328,Nikola,24, ,9.0,2019-10-01,NaN,120,ana@gmail.com,
+329,Nikola,22,Kragujevac,6.0,10-09-2017,2021-05-20,999,jelena@hotmail.com,
+330,Ivana,,Kragujevac,10.0,201x-09-15,2024-07-01,300,marko@yahoo.com,
+331,Ivana,26,novi sad,10.0,201x-09-15,2020-13-01,120,student@uni.rs,12345
+332,Marko,30,novi sad,,201x-09-15,2023-06-15,-10,student@uni.rs,064/123-4567
+333,Stefan,29,Beograd,6.0,2020/11/01,2024-07-01,999,petar@,+381601234567
+334,Stefan,28, ,,201x-09-15,2023-06-15,240,jelena@hotmail.com,060-abc-789
+335,,250,Novi Sad,6.0,2020/11/01,2024-07-01,120,ana@gmail.com,
+336,Ana,-5,Nis,,2019-10-01,2024-07-01,300,,
+337,Stefan,-5, ,8.0,2019-10-01,NaN,120,ivana#gmail.com,060-abc-789
+338,Ivana,28,Kragujevac,9.0,10-09-2017,2020-13-01,120,ivana#gmail.com,060-abc-789
+339,Marko,250,Niš,9.0,,2020-13-01,-10,ana@gmail.com,064/123-4567
+340,Marko,28,NIŠ,6.0,2019-10-01,2020-05-35,,ana@gmail.com,
+341,Nikola,21,novi sad,7.5,,2024-07-01,240,ivana#gmail.com,060-abc-789
+342,,22,,15.0,,2021-05-20,-10,,12345
+343,Marija,26,Niš,10.0,10-09-2017,2021-05-20,0,jelena@hotmail.com,12345
+344,Ana,24,Nis,10.0,2018-09-15,2023-06-15,-10,ivana#gmail.com,
+345, ,21,Kragujevac,6.0,2018-09-15,2023-06-15,999,ana@gmail.com,060-abc-789
+346,Nikola,22,Kragujevac,,2017-09-10,NaN,240,petar@,064/123-4567
+347,Marija,29,Kragujevac,7.5,10-09-2017,2024-07-01,60,marko@yahoo.com,064/123-4567
+348,Stefan,25,,8.0,2017-09-10,2023-06-15,0,,064/123-4567
+349,,-5,novi sad,,2017-09-10,2023-06-15,180,student@uni.rs,0612345678
+350,Nikola,26,Niš,,2018-09-15,2025-07-01,-10,,
+351,Jelena,28,Nis,6.0,10-09-2017,2024-07-01,120,petar@,064/123-4567
+352,Stefan,20,novi sad,6.0,2018-09-15,,,petar@,12345
+353,Marija,30,Nis,10.0,2017-09-10,NaN,60,student@uni.rs,060-abc-789
+354,Ana,26,novi sad,6.0,10-09-2017,2023-06-15,-10,ana@gmail.com,+381601234567
+355, ,27,,6.0,2017-09-10,NaN,-10,ivana#gmail.com,+381601234567
+356,Marija,,NIŠ,6.0,201x-09-15,2020-13-01,300,jelena@hotmail.com,064/123-4567
+357,Nikola,250,Nis,10.0,,NaN,300,,+381601234567
+358,Nikola,22,novi sad,8.0,10-09-2017,,60,student@uni.rs,+381601234567
+359, ,23,Kragujevac,8.0,10-09-2017,2021-05-20,300,,0612345678
+360,Petar,29, ,15.0,,,120,petar@,12345
+361,Ana,25,Kragujevac,15.0,2017-09-10,2021-05-20,0,ivana#gmail.com,12345
+362,Jovan,29,Beograd,6.0,201x-09-15,NaN,180,,0612345678
+363,Stefan,26,NIŠ,15.0,2020/11/01,2021-05-20,240,jelena@hotmail.com,0612345678
+364,Marko,-5,NIŠ,10.0,,2020-13-01,180,petar@,+381601234567
+365, ,250,Kragujevac,8.0,2018-09-15,2024-07-01,180,jelena@hotmail.com,
+366,Ana,23,Niš,,2017-09-10,2021-05-20,240,ivana#gmail.com,060-abc-789
+367,Marko,27,,8.0,,2021-05-20,300,,060-abc-789
+368,Ana,24,Nis,8.0,,NaN,60,marko@yahoo.com,+381601234567
+369,Ana,20,NIŠ,10.0,10-09-2017,2020-13-01,240,,060-abc-789
+370,Marija,23,Kragujevac,15.0,2018-09-15,2020-05-35,999,ivana#gmail.com,0612345678
+371,Ana,22,Kragujevac,,2018-09-15,2020-05-35,0,,12345
+372,Petar,28,,10.0,2018-09-15,2020-05-35,,student@uni.rs,060-abc-789
+373,Jovan,27,,6.0,,2020-05-35,300,,+381601234567
+374,Nikola,20,Novi Sad,9.0,2020/11/01,2024-07-01,240,ana@gmail.com,
+375,Milica,30,Novi Sad,8.0,2019-10-01,,999,,+381601234567
+376,Marko,25,Niš,9.0,2017-09-10,NaN,,,064/123-4567
+377,Nikola,28,Niš,10.0,2019-10-01,NaN,0,jelena@hotmail.com,+381601234567
+378,Milica,26,Beograd,10.0,,2025-07-01,0,marko@yahoo.com,0612345678
+379,Jovan,23,Niš,10.0,2019-10-01,2020-13-01,300,jelena@hotmail.com,12345
+380,Jovan,-5,novi sad,9.0,,2020-05-35,240,jelena@hotmail.com,12345
+381,Marko,20,,10.0,2019-10-01,2024-07-01,60,petar@,060-abc-789
+382,Marko,,novi sad,6.0,2018-09-15,2020-13-01,0,ana@gmail.com,0612345678
+383,Jovan,21,Nis,10.0,201x-09-15,2020-05-35,60,jelena@hotmail.com,064/123-4567
+384,Milica,,Kragujevac,7.5,2018-09-15,2024-07-01,60,student@uni.rs,0612345678
+385, ,24,Niš,15.0,2018-09-15,2020-13-01,300,ivana#gmail.com,+381601234567
+386,Ana,,Kragujevac,9.0,10-09-2017,NaN,,student@uni.rs,0612345678
+387,Stefan,30,NIŠ,7.5,10-09-2017,NaN,-10,ivana#gmail.com,0612345678
+388,,24,Beograd,10.0,2019-10-01,,180,,064/123-4567
+389,Jelena,27,NIŠ,6.0,,2023-06-15,180,petar@,+381601234567
+390,,25,Beograd,8.0,2018-09-15,,0,ana@gmail.com,
+391,Nikola,27,Novi Sad,,2019-10-01,2021-05-20,-10,student@uni.rs,
+392,Marija,21,Kragujevac,15.0,10-09-2017,,,ana@gmail.com,12345
+393,Nikola,22,Beograd,,201x-09-15,2020-05-35,-10,student@uni.rs,060-abc-789
+394,Marija,25, ,10.0,2017-09-10,2025-07-01,300,,0612345678
+395,Milica,,novi sad,15.0,2019-10-01,2020-13-01,0,ivana#gmail.com,12345
+396,Marija,-5,Beograd,15.0,201x-09-15,2025-07-01,60,marko@yahoo.com,064/123-4567
+397,Marko,29,Beograd,6.0,2017-09-10,2023-06-15,0,petar@,
+398, ,22,novi sad,15.0,2020/11/01,2021-05-20,180,student@uni.rs,0612345678
+399,Stefan,25,Kragujevac,9.0,2019-10-01,2020-13-01,,student@uni.rs,064/123-4567
+400,Stefan,25,Kragujevac,7.5,2019-10-01,2024-07-01,-10,,060-abc-789
+401,Marko,21,novi sad,7.5,2020/11/01,2020-05-35,,petar@,064/123-4567
+402, ,26,NIŠ,7.5,2020/11/01,2021-05-20,300,ivana#gmail.com,0612345678
+403,Petar,, ,9.0,2019-10-01,NaN,0,ivana#gmail.com,060-abc-789
+404,,21,Nis,,2020/11/01,2023-06-15,240,student@uni.rs,064/123-4567
+405,Milica,25, ,6.0,2018-09-15,2021-05-20,0,marko@yahoo.com,060-abc-789
+406,,20,Kragujevac,15.0,2017-09-10,2020-05-35,60,marko@yahoo.com,0612345678
+407,Petar,22,Novi Sad,9.0,2017-09-10,,0,ana@gmail.com,0612345678
+408,Petar,21,Niš,7.5,2017-09-10,2021-05-20,999,petar@,060-abc-789
+409,Nikola,26,Beograd,10.0,2018-09-15,,300,petar@,+381601234567
+410,Jovan,250,novi sad,8.0,,2020-05-35,120,ivana#gmail.com,12345
+411,Nikola,23,novi sad,15.0,2020/11/01,NaN,300,ana@gmail.com,064/123-4567
+412,Jovan,27,Beograd,9.0,201x-09-15,2020-13-01,-10,,064/123-4567
+413,Jelena,25,Niš,9.0,2020/11/01,2024-07-01,120,petar@,+381601234567
+414,Marija,,Nis,6.0,2019-10-01,NaN,-10,ana@gmail.com,+381601234567
+415, ,29,Niš,6.0,10-09-2017,,-10,ana@gmail.com,+381601234567
+416,Jovan,23,Niš,9.0,2017-09-10,,60,student@uni.rs,
+417,,24,Niš,7.5,2020/11/01,2024-07-01,60,ivana#gmail.com,
+418,Marko,-5,Nis,8.0,201x-09-15,2020-13-01,180,ana@gmail.com,060-abc-789
+419,Nikola,-5,Nis,15.0,2019-10-01,2021-05-20,180,marko@yahoo.com,
+420, ,28,Kragujevac,6.0,2018-09-15,2024-07-01,240,marko@yahoo.com,0612345678
+421,Milica,26,Beograd,15.0,,2023-06-15,120,jelena@hotmail.com,060-abc-789
+422, ,29,Nis,7.5,2018-09-15,2023-06-15,,ivana#gmail.com,064/123-4567
+423,Marija,250,Nis,15.0,201x-09-15,2020-05-35,0,student@uni.rs,12345
+424,Jelena,250,Kragujevac,10.0,2019-10-01,NaN,0,,0612345678
+425,Jovan,28,novi sad,6.0,2017-09-10,,-10,jelena@hotmail.com,064/123-4567
+426,Jelena,26,Kragujevac,7.5,2020/11/01,2020-13-01,180,marko@yahoo.com,064/123-4567
+427,Milica,,NIŠ,7.5,2019-10-01,2020-05-35,-10,student@uni.rs,060-abc-789
+428,Petar,20,NIŠ,8.0,,NaN,999,jelena@hotmail.com,+381601234567
+429,Stefan,,Novi Sad,8.0,2018-09-15,NaN,999,ivana#gmail.com,+381601234567
+430,Milica,27,Niš,10.0,,2020-05-35,,student@uni.rs,0612345678
+431,Ivana,23,Beograd,7.5,,2025-07-01,60,ivana#gmail.com,+381601234567
+432,Milica,22,,,201x-09-15,NaN,60,ana@gmail.com,064/123-4567
+433,Jelena,250, ,7.5,201x-09-15,2025-07-01,180,petar@,+381601234567
+434, ,-5,Kragujevac,8.0,2020/11/01,2023-06-15,180,ana@gmail.com,
+435,Marko,26,novi sad,,201x-09-15,2023-06-15,999,ivana#gmail.com,+381601234567
+436,Nikola,, ,6.0,201x-09-15,NaN,60,student@uni.rs,064/123-4567
+437,Marko,22,novi sad,6.0,2019-10-01,2023-06-15,120,marko@yahoo.com,060-abc-789
+438,Jelena,27, ,15.0,2017-09-10,2020-13-01,120,,0612345678
+439,Nikola,25,Kragujevac,9.0,2020/11/01,2025-07-01,180,marko@yahoo.com,12345
+440,Ivana,24,,8.0,2019-10-01,2025-07-01,-10,student@uni.rs,+381601234567
+441,Stefan,23, ,9.0,2017-09-10,NaN,60,ana@gmail.com,064/123-4567
+442,Marija,27,Kragujevac,,,2023-06-15,120,,12345
+443,,27,Nis,8.0,2019-10-01,2024-07-01,60,student@uni.rs,12345
+444,Jelena,,,10.0,10-09-2017,,300,ivana#gmail.com,
+445, ,20,novi sad,7.5,2019-10-01,2020-05-35,0,marko@yahoo.com,12345
+446,Jovan,28,NIŠ,10.0,201x-09-15,2020-05-35,999,ivana#gmail.com,060-abc-789
+447,Jelena,250,Niš,,2017-09-10,2025-07-01,60,,064/123-4567
+448,Jelena,24,NIŠ,8.0,2020/11/01,NaN,0,,064/123-4567
+449,Nikola,23,,,2020/11/01,NaN,300,marko@yahoo.com,+381601234567
+450,Ana,25,novi sad,7.5,2017-09-10,2020-13-01,60,ivana#gmail.com,+381601234567
+451,Milica,25, ,6.0,201x-09-15,2021-05-20,180,jelena@hotmail.com,+381601234567
+452, ,21,novi sad,6.0,2018-09-15,,0,ivana#gmail.com,060-abc-789
+453,Ana,27, ,,2019-10-01,2021-05-20,60,,12345
+454,Ivana,26,Kragujevac,9.0,201x-09-15,2025-07-01,0,ivana#gmail.com,12345
+455,Jovan,20,,8.0,10-09-2017,2020-05-35,300,student@uni.rs,
+456,Stefan,24,Kragujevac,8.0,,2020-13-01,60,ana@gmail.com,060-abc-789
+457,Petar,,Novi Sad,6.0,2017-09-10,2020-13-01,60,jelena@hotmail.com,+381601234567
+458,Ivana,25, ,15.0,2019-10-01,2020-13-01,60,petar@,0612345678
+459,Petar,23,Nis,10.0,2020/11/01,2025-07-01,,student@uni.rs,
+460, ,21,Kragujevac,15.0,,2021-05-20,180,ana@gmail.com,0612345678
+461, ,-5,Novi Sad,7.5,2018-09-15,2020-05-35,300,petar@,12345
+462,Petar,250,Beograd,10.0,10-09-2017,2020-13-01,,marko@yahoo.com,
+463, ,23,NIŠ,10.0,2020/11/01,2020-05-35,-10,petar@,
+464,Stefan,20,novi sad,,2017-09-10,2023-06-15,,student@uni.rs,064/123-4567
+465,Marko,26,Novi Sad,6.0,2019-10-01,NaN,999,ivana#gmail.com,12345
+466,Ana,21,,15.0,2017-09-10,NaN,999,student@uni.rs,12345
+467,Jelena,-5,Kragujevac,15.0,,2020-05-35,60,petar@,060-abc-789
+468,Marija,21,,6.0,2019-10-01,2024-07-01,,,
+469,Petar,28,NIŠ,15.0,201x-09-15,2024-07-01,-10,ana@gmail.com,12345
+470,Jovan,24,Nis,6.0,2018-09-15,2025-07-01,,ana@gmail.com,
+471,Ivana,21,,,201x-09-15,2025-07-01,180,petar@,060-abc-789
+472,Marko,30, ,9.0,201x-09-15,NaN,180,ana@gmail.com,060-abc-789
+473,Petar,28,Nis,10.0,2017-09-10,2023-06-15,-10,,064/123-4567
+474,Marko,28,Nis,,,,,student@uni.rs,
+475,Marko,20,Novi Sad,8.0,2018-09-15,2021-05-20,0,ana@gmail.com,12345
+476,Petar,30,Nis,7.5,2019-10-01,2021-05-20,180,petar@,12345
+477,Nikola,22,Niš,9.0,2019-10-01,2025-07-01,180,jelena@hotmail.com,
+478,Milica,23,NIŠ,8.0,10-09-2017,2023-06-15,120,jelena@hotmail.com,
+479,Jovan,250,Nis,10.0,2020/11/01,2025-07-01,,marko@yahoo.com,
+480,Jelena,26,,15.0,10-09-2017,,180,ana@gmail.com,+381601234567
+481,Jelena,29,Beograd,6.0,10-09-2017,2021-05-20,300,student@uni.rs,12345
+482,Jovan,23,Niš,10.0,2019-10-01,2020-05-35,,petar@,060-abc-789
+483,Nikola,21,Niš,,2017-09-10,2025-07-01,999,ana@gmail.com,12345
+484, ,26, ,7.5,201x-09-15,2020-13-01,120,ivana#gmail.com,+381601234567
+485,Jelena,25,Nis,,,2020-05-35,180,,
+486,Marko,22, ,9.0,201x-09-15,,120,ana@gmail.com,064/123-4567
+487,Stefan,25, ,9.0,201x-09-15,,999,ana@gmail.com,
+488,Ivana,30,Beograd,7.5,2018-09-15,2025-07-01,-10,jelena@hotmail.com,
+489,Ana,25,Novi Sad,8.0,2019-10-01,NaN,-10,,+381601234567
+490,Jelena,,Nis,8.0,,2025-07-01,,petar@,12345
+491,Jovan,24,Kragujevac,9.0,2017-09-10,NaN,999,ana@gmail.com,
+492,Stefan,23, ,9.0,2018-09-15,,240,jelena@hotmail.com,12345
+493,Petar,29,NIŠ,15.0,2020/11/01,2023-06-15,240,marko@yahoo.com,0612345678
+494,Milica,,novi sad,6.0,2017-09-10,,,,060-abc-789
+495,Jovan,20,NIŠ,15.0,10-09-2017,2021-05-20,60,jelena@hotmail.com,12345
+496, ,29,Beograd,15.0,2017-09-10,2020-05-35,120,jelena@hotmail.com,064/123-4567
+497,Marko,25,Beograd,8.0,2017-09-10,2020-05-35,120,student@uni.rs,060-abc-789
+498,Milica,21,,7.5,201x-09-15,2024-07-01,-10,jelena@hotmail.com,064/123-4567
+499,Ivana,-5,Novi Sad,8.0,2017-09-10,2024-07-01,240,student@uni.rs,
+500,Ivana,22, ,6.0,10-09-2017,,180,ana@gmail.com,060-abc-789
+501,Nikola,250,NIŠ,,10-09-2017,2021-05-20,180,ana@gmail.com,12345
+502,Marija,27,novi sad,9.0,2019-10-01,2024-07-01,180,marko@yahoo.com,060-abc-789
+503,Nikola,29,Beograd,9.0,2017-09-10,2020-05-35,-10,ivana#gmail.com,
+504, ,250,Beograd,6.0,201x-09-15,2025-07-01,999,ivana#gmail.com,+381601234567
+505,Stefan,250,Novi Sad,15.0,2017-09-10,2023-06-15,0,ivana#gmail.com,064/123-4567
+506,Milica,25,novi sad,7.5,2020/11/01,2023-06-15,240,student@uni.rs,
+507,Marija,22,novi sad,9.0,2020/11/01,2021-05-20,240,,+381601234567
+508,Petar,26,Novi Sad,10.0,201x-09-15,,120,,060-abc-789
+509,Marko,23,Beograd,15.0,2019-10-01,2024-07-01,60,marko@yahoo.com,060-abc-789
+510,Milica,250,Nis,9.0,2019-10-01,2025-07-01,,,
+511,Nikola,28,Nis,10.0,10-09-2017,2023-06-15,120,ivana#gmail.com,12345
+512,Ana,24,Novi Sad,6.0,10-09-2017,2023-06-15,999,ivana#gmail.com,060-abc-789
+513,,22,novi sad,6.0,2018-09-15,2020-13-01,,jelena@hotmail.com,12345
+514,Marija,21, ,15.0,201x-09-15,,240,,12345
+515,Marija,30,Novi Sad,9.0,2017-09-10,2020-13-01,999,ana@gmail.com,12345
+516, ,21,Novi Sad,8.0,,2020-05-35,,ana@gmail.com,0612345678
+517,Marko,22,Niš,10.0,201x-09-15,2023-06-15,300,jelena@hotmail.com,+381601234567
+518,Jelena,21,NIŠ,7.5,2018-09-15,2021-05-20,0,jelena@hotmail.com,+381601234567
+519,Ivana,250,novi sad,9.0,10-09-2017,NaN,240,jelena@hotmail.com,060-abc-789
+520,Ivana,23,,7.5,201x-09-15,NaN,60,ana@gmail.com,060-abc-789
+521,Ana,21,,9.0,201x-09-15,2025-07-01,180,ivana#gmail.com,12345
+522,Stefan,29,novi sad,8.0,10-09-2017,2023-06-15,300,jelena@hotmail.com,0612345678
+523, ,28,Niš,8.0,2018-09-15,2023-06-15,180,marko@yahoo.com,12345
+524,Stefan,21,Niš,15.0,10-09-2017,2020-05-35,0,student@uni.rs,0612345678
+525,Petar,28,Beograd,15.0,2019-10-01,2023-06-15,,jelena@hotmail.com,12345
+526,Milica,-5,NIŠ,8.0,2017-09-10,2021-05-20,-10,student@uni.rs,064/123-4567
+527,,25,Nis,,10-09-2017,2020-13-01,60,petar@,064/123-4567
+528,Jovan,20,Kragujevac,8.0,2018-09-15,2023-06-15,0,jelena@hotmail.com,
+529,Jelena,23,Kragujevac,6.0,2020/11/01,2023-06-15,180,ana@gmail.com,12345
+530,Nikola,250,Kragujevac,6.0,2019-10-01,2020-05-35,300,,060-abc-789
+531,Jovan,20,novi sad,,2020/11/01,,240,jelena@hotmail.com,+381601234567
+532,Jovan,250,,10.0,,2024-07-01,300,,
+533, ,25,,7.5,10-09-2017,,300,petar@,060-abc-789
+534,Marija,250,Nis,9.0,2019-10-01,2020-05-35,-10,marko@yahoo.com,064/123-4567
+535,Ana,-5,novi sad,9.0,2017-09-10,,-10,,12345
+536,Ivana,23,Kragujevac,,10-09-2017,2020-05-35,999,student@uni.rs,
+537,Petar,22, ,6.0,2017-09-10,2021-05-20,999,ivana#gmail.com,12345
+538,Stefan,22,,15.0,201x-09-15,2025-07-01,,jelena@hotmail.com,064/123-4567
+539,,28,Beograd,9.0,2020/11/01,2023-06-15,999,petar@,
+540, ,25,Novi Sad,6.0,2019-10-01,2020-05-35,120,petar@,064/123-4567
+541,Ana,28, ,10.0,2017-09-10,2020-05-35,60,,0612345678
+542,Marija,-5,,7.5,2018-09-15,2024-07-01,120,marko@yahoo.com,064/123-4567
+543,Nikola,24,Niš,10.0,2017-09-10,2020-05-35,120,ana@gmail.com,12345
+544,Petar,21,,,2018-09-15,NaN,180,jelena@hotmail.com,+381601234567
+545, ,27,Beograd,8.0,10-09-2017,2025-07-01,0,petar@,064/123-4567
+546,Marija,24,Kragujevac,8.0,2019-10-01,2023-06-15,120,marko@yahoo.com,060-abc-789
+547,,21,Niš,8.0,2017-09-10,2023-06-15,60,ivana#gmail.com,+381601234567
+548,Ivana,23,novi sad,10.0,,2024-07-01,-10,petar@,0612345678
+549,Ivana,28,NIŠ,9.0,2017-09-10,2021-05-20,,marko@yahoo.com,
+550, ,23,Kragujevac,7.5,,2023-06-15,180,ana@gmail.com,
+551,Ivana,-5,NIŠ,8.0,2019-10-01,NaN,-10,ana@gmail.com,+381601234567
+552,Ana,, ,,2017-09-10,2023-06-15,180,petar@,
+553,Ana,,Novi Sad,,2018-09-15,NaN,60,student@uni.rs,064/123-4567
+554,Stefan,,Niš,8.0,2017-09-10,2025-07-01,300,petar@,+381601234567
+555, ,-5,Nis,8.0,2020/11/01,2025-07-01,240,,12345
+556,Stefan,250,Niš,7.5,10-09-2017,2020-13-01,0,jelena@hotmail.com,064/123-4567
+557, ,23,,8.0,201x-09-15,2020-13-01,-10,marko@yahoo.com,064/123-4567
+558,Nikola,21,,7.5,2018-09-15,NaN,0,petar@,064/123-4567
+559, ,-5,,,2020/11/01,2021-05-20,300,jelena@hotmail.com,12345
+560,,, ,8.0,,2023-06-15,240,,0612345678
+561,Petar,25,Kragujevac,10.0,10-09-2017,2020-05-35,0,jelena@hotmail.com,060-abc-789
+562,Marko,-5,Nis,15.0,2019-10-01,2023-06-15,0,petar@,
+563,Marko,30,Nis,10.0,2018-09-15,2020-13-01,-10,ana@gmail.com,+381601234567
+564,Marija,250,,,201x-09-15,,999,marko@yahoo.com,0612345678
+565,Ivana,21,NIŠ,7.5,10-09-2017,2020-05-35,240,marko@yahoo.com,+381601234567
+566,Petar,, ,10.0,,NaN,300,ana@gmail.com,
+567,Jovan,26,,7.5,201x-09-15,2020-05-35,240,student@uni.rs,12345
+568,Ana,22,Novi Sad,10.0,2019-10-01,,60,petar@,064/123-4567
+569,Milica,22,Kragujevac,10.0,2019-10-01,2023-06-15,999,marko@yahoo.com,064/123-4567
+570,Jelena,24,novi sad,7.5,,2023-06-15,60,petar@,12345
+571,Nikola,22,Novi Sad,9.0,2018-09-15,2021-05-20,300,,0612345678
+572,Ivana,21,NIŠ,10.0,,2024-07-01,-10,petar@,0612345678
+573,Ivana,29,Niš,8.0,2017-09-10,2020-05-35,-10,jelena@hotmail.com,+381601234567
+574,,28,Niš,15.0,2019-10-01,2020-13-01,300,ana@gmail.com,12345
+575,Ivana,21,Novi Sad,,10-09-2017,,180,student@uni.rs,0612345678
+576,Ana,250,,9.0,2017-09-10,,300,petar@,12345
+577,Ana,30,novi sad,7.5,2020/11/01,,999,student@uni.rs,
+578,Jelena,21,Beograd,9.0,201x-09-15,2020-13-01,120,student@uni.rs,064/123-4567
+579, ,-5,Beograd,6.0,2017-09-10,2024-07-01,-10,,064/123-4567
+580,Jovan,27,NIŠ,6.0,201x-09-15,2023-06-15,,ivana#gmail.com,064/123-4567
+581,Petar,28,,10.0,,2021-05-20,999,ana@gmail.com,12345
+582,Ivana,26,Nis,10.0,2017-09-10,2021-05-20,999,student@uni.rs,12345
+583,Marko,22,Nis,8.0,,2020-13-01,999,marko@yahoo.com,+381601234567
+584,Stefan,28,Kragujevac,15.0,2020/11/01,2021-05-20,0,jelena@hotmail.com,064/123-4567
+585,,22,novi sad,,2019-10-01,,999,marko@yahoo.com,+381601234567
+586,,24,novi sad,9.0,2020/11/01,2025-07-01,-10,,064/123-4567
+587,Marko,28,Niš,6.0,2019-10-01,2024-07-01,120,,+381601234567
+588,Marija,, ,10.0,,2023-06-15,120,marko@yahoo.com,+381601234567
+589,Marko,250,NIŠ,,2019-10-01,2025-07-01,999,ana@gmail.com,
+590,Marija,250,Beograd,9.0,201x-09-15,2024-07-01,60,marko@yahoo.com,+381601234567
+591,Milica,22,NIŠ,10.0,10-09-2017,NaN,-10,petar@,12345
+592,Stefan,26,Nis,10.0,2020/11/01,2020-05-35,-10,marko@yahoo.com,+381601234567
+593,,,Nis,6.0,2017-09-10,2020-13-01,240,jelena@hotmail.com,064/123-4567
+594,Marko,20,Novi Sad,6.0,2020/11/01,,180,jelena@hotmail.com,+381601234567
+595,Milica,23,Kragujevac,10.0,201x-09-15,2021-05-20,180,ivana#gmail.com,0612345678
+596, ,23,novi sad,7.5,2019-10-01,NaN,60,jelena@hotmail.com,060-abc-789
+597,Nikola,26,NIŠ,10.0,201x-09-15,2021-05-20,180,marko@yahoo.com,064/123-4567
+598,Petar,27,Nis,,2018-09-15,2025-07-01,240,jelena@hotmail.com,0612345678
+599,Milica,20, ,10.0,2018-09-15,2023-06-15,300,ana@gmail.com,064/123-4567
+600,Petar,24,Niš,8.0,2017-09-10,2023-06-15,180,student@uni.rs,12345
+601,Marko,26,Beograd,15.0,201x-09-15,2023-06-15,-10,jelena@hotmail.com,060-abc-789
+602,Jovan,,Kragujevac,8.0,,,300,petar@,060-abc-789
+603, ,23, ,8.0,2017-09-10,2021-05-20,180,ana@gmail.com,12345
+604,Milica,-5,Kragujevac,7.5,,NaN,-10,ivana#gmail.com,060-abc-789
+605,Stefan,23,Novi Sad,7.5,2017-09-10,2023-06-15,-10,petar@,12345
+606,Marko,23,Nis,10.0,2018-09-15,NaN,999,marko@yahoo.com,0612345678
+607,Ivana,,Niš,8.0,2017-09-10,2021-05-20,120,student@uni.rs,
+608,Ana,25, ,7.5,2018-09-15,,60,marko@yahoo.com,064/123-4567
+609,Milica,26,Kragujevac,6.0,2019-10-01,2025-07-01,240,student@uni.rs,12345
+610,Stefan,21,novi sad,10.0,,,0,student@uni.rs,064/123-4567
+611,Nikola,24,Novi Sad,,201x-09-15,NaN,180,marko@yahoo.com,0612345678
+612,Ivana,23,novi sad,15.0,2017-09-10,,180,petar@,
+613,Nikola,250,Niš,9.0,2018-09-15,,300,petar@,0612345678
+614,Marko,-5, ,10.0,2020/11/01,2025-07-01,300,student@uni.rs,060-abc-789
+615,Ana,22,Novi Sad,9.0,,2021-05-20,180,petar@,064/123-4567
+616,Milica,26, ,8.0,2017-09-10,2021-05-20,,student@uni.rs,
+617,Milica,30,Nis,15.0,10-09-2017,2020-13-01,240,student@uni.rs,060-abc-789
+618,Jovan,,,9.0,2019-10-01,,180,ana@gmail.com,
+619,,25,Novi Sad,8.0,2019-10-01,2021-05-20,120,,060-abc-789
+620,Jovan,250,novi sad,6.0,2020/11/01,2021-05-20,,ana@gmail.com,0612345678
+621,Marko,26,Niš,9.0,2018-09-15,2024-07-01,240,marko@yahoo.com,12345
+622,Marko,24,Nis,15.0,2017-09-10,2023-06-15,180,,064/123-4567
+623,Ana,-5,,10.0,,2020-13-01,0,jelena@hotmail.com,+381601234567
+624,Jovan,25,Beograd,8.0,2018-09-15,2020-05-35,999,marko@yahoo.com,+381601234567
+625,Stefan,24,Nis,10.0,2019-10-01,2020-13-01,120,ivana#gmail.com,0612345678
+626,Stefan,250,Niš,15.0,2018-09-15,2020-13-01,0,ana@gmail.com,064/123-4567
+627,Ana,26,Kragujevac,7.5,2019-10-01,2020-05-35,300,petar@,064/123-4567
+628, ,21,Novi Sad,8.0,2018-09-15,2024-07-01,300,ana@gmail.com,0612345678
+629,,250, ,9.0,2020/11/01,,180,petar@,064/123-4567
+630,Stefan,30,Niš,8.0,201x-09-15,2025-07-01,300,,12345
+631,Marija,24,Novi Sad,10.0,2020/11/01,2021-05-20,120,ivana#gmail.com,0612345678
+632,Petar,25, ,6.0,2020/11/01,2023-06-15,240,,12345
+633,Ana,25,NIŠ,8.0,201x-09-15,NaN,-10,ivana#gmail.com,064/123-4567
+634,Ana,24,novi sad,9.0,201x-09-15,,60,ana@gmail.com,0612345678
+635,Jelena,29,Beograd,7.5,2017-09-10,2020-05-35,240,petar@,064/123-4567
+636,Ivana,26,Nis,,,2025-07-01,-10,,0612345678
+637,Ivana,29,Niš,6.0,,,,ivana#gmail.com,064/123-4567
+638,Marija,27,Beograd,7.5,2017-09-10,2020-05-35,120,student@uni.rs,12345
+639,Jovan,26,Kragujevac,8.0,2020/11/01,2021-05-20,0,marko@yahoo.com,12345
+640, ,24,Novi Sad,10.0,2020/11/01,2024-07-01,-10,marko@yahoo.com,064/123-4567
+641,Marko,20,Novi Sad,15.0,2019-10-01,,120,,0612345678
+642,Marko,-5,Niš,10.0,2019-10-01,2020-05-35,999,petar@,+381601234567
+643,Nikola,24,,9.0,,2021-05-20,0,student@uni.rs,12345
+644,Marija,29,,10.0,2017-09-10,2021-05-20,300,,12345
+645,Ana,21,NIŠ,6.0,10-09-2017,2024-07-01,300,ana@gmail.com,060-abc-789
+646,Marija,-5,novi sad,10.0,10-09-2017,2020-13-01,0,ivana#gmail.com,+381601234567
+647,Marija,24, ,9.0,2017-09-10,,,ana@gmail.com,064/123-4567
+648,Marija,24,Kragujevac,,2019-10-01,,,marko@yahoo.com,0612345678
+649,Ivana,21,Beograd,8.0,,2020-13-01,,ivana#gmail.com,060-abc-789
+650,Marija,24,,15.0,,2023-06-15,-10,,064/123-4567
+651,,-5,NIŠ,8.0,2019-10-01,2023-06-15,-10,ana@gmail.com,
+652,Petar,23,NIŠ,10.0,10-09-2017,2020-13-01,180,jelena@hotmail.com,12345
+653,Marko,20,Niš,7.5,2018-09-15,2025-07-01,60,petar@,
+654,Nikola,22,Kragujevac,8.0,2018-09-15,NaN,0,student@uni.rs,12345
+655,Petar,20, ,,2019-10-01,2021-05-20,240,student@uni.rs,12345
+656,Nikola,,novi sad,10.0,2018-09-15,NaN,60,petar@,
+657,Jelena,30,Nis,15.0,201x-09-15,2021-05-20,999,jelena@hotmail.com,
+658,Nikola,24,Niš,9.0,2017-09-10,2020-13-01,-10,marko@yahoo.com,064/123-4567
+659,Marko,23, ,,2017-09-10,2023-06-15,-10,ivana#gmail.com,060-abc-789
+660,Marko,26,Nis,10.0,2019-10-01,2025-07-01,120,petar@,060-abc-789
+661,Marija,24,Nis,,2020/11/01,2023-06-15,60,jelena@hotmail.com,
+662,Milica,29,Kragujevac,8.0,10-09-2017,NaN,120,,064/123-4567
+663,Jelena,250,Kragujevac,15.0,2019-10-01,2023-06-15,240,student@uni.rs,060-abc-789
+664,,23,Beograd,9.0,2018-09-15,2020-13-01,120,jelena@hotmail.com,064/123-4567
+665,Ana,21,NIŠ,10.0,10-09-2017,2025-07-01,60,marko@yahoo.com,064/123-4567
+666,Stefan,23, ,6.0,2020/11/01,NaN,0,marko@yahoo.com,12345
+667,Nikola,,Niš,9.0,2018-09-15,2025-07-01,999,ana@gmail.com,060-abc-789
+668,Milica,21,Novi Sad,6.0,,,-10,petar@,060-abc-789
+669,Marija,27,Niš,,201x-09-15,2021-05-20,240,ana@gmail.com,12345
+670,Ivana,22,Beograd,7.5,2018-09-15,2023-06-15,-10,student@uni.rs,
+671,Ana,28,novi sad,9.0,201x-09-15,2025-07-01,180,jelena@hotmail.com,12345
+672, ,-5,NIŠ,,10-09-2017,2024-07-01,999,ivana#gmail.com,060-abc-789
+673,Jovan,23,Novi Sad,6.0,201x-09-15,,120,ivana#gmail.com,060-abc-789
+674,Milica,-5,,8.0,10-09-2017,2023-06-15,300,marko@yahoo.com,
+675,Ivana,25,novi sad,8.0,10-09-2017,2021-05-20,60,ivana#gmail.com,12345
+676,Jelena,29,Kragujevac,7.5,10-09-2017,2025-07-01,-10,ivana#gmail.com,0612345678
+677, ,24,Nis,9.0,10-09-2017,NaN,120,student@uni.rs,0612345678
+678,Marija,29,,9.0,10-09-2017,2021-05-20,240,ivana#gmail.com,
+679,Ana,-5,Niš,9.0,2018-09-15,2024-07-01,-10,jelena@hotmail.com,12345
+680,Ana,20,Niš,,10-09-2017,2025-07-01,999,ivana#gmail.com,12345
+681,Ana,28,Kragujevac,15.0,2018-09-15,2020-05-35,999,,064/123-4567
+682,Jelena,20,Beograd,15.0,10-09-2017,2020-05-35,-10,ivana#gmail.com,060-abc-789
+683, ,27, ,7.5,201x-09-15,2020-13-01,240,ivana#gmail.com,+381601234567
+684,Nikola,28,,9.0,,2023-06-15,999,ana@gmail.com,
+685,Jovan,28,,,10-09-2017,NaN,999,jelena@hotmail.com,+381601234567
+686,,20,novi sad,8.0,2020/11/01,2020-13-01,60,marko@yahoo.com,+381601234567
+687,Jelena,21,NIŠ,6.0,10-09-2017,2025-07-01,240,ana@gmail.com,
+688,Stefan,,novi sad,,10-09-2017,2020-05-35,240,petar@,12345
+689,Jovan,-5, ,15.0,201x-09-15,2020-05-35,0,jelena@hotmail.com,
+690,Marko,20,Niš,15.0,2017-09-10,2020-05-35,0,,+381601234567
+691,Marija,29,Niš,8.0,201x-09-15,2025-07-01,999,jelena@hotmail.com,060-abc-789
+692,Jelena,21,Niš,8.0,2020/11/01,2020-05-35,300,petar@,060-abc-789
+693,Ivana,29,Niš,6.0,2017-09-10,2021-05-20,0,petar@,060-abc-789
+694,Jovan,, ,8.0,2019-10-01,,999,petar@,12345
+695,Stefan,27,Kragujevac,7.5,2019-10-01,2025-07-01,,student@uni.rs,0612345678
+696,Marko,24,NIŠ,6.0,2020/11/01,NaN,180,marko@yahoo.com,
+697,Nikola,, ,8.0,201x-09-15,,180,ivana#gmail.com,060-abc-789
+698, ,30,NIŠ,10.0,2018-09-15,2020-13-01,240,jelena@hotmail.com,
+699,Ivana,26, ,,2020/11/01,NaN,300,student@uni.rs,060-abc-789
+700,Jovan,21,Niš,8.0,,,60,ivana#gmail.com,12345
