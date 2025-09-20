@@ -1,0 +1,22 @@
+# Virtual environmnet
+venv/
+.venv/
+
+# Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualvenv and pip logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE files
+.vscode/
+.idea/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+
